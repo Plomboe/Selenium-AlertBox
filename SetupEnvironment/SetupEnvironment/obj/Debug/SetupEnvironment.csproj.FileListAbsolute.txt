@@ -1,0 +1,10 @@
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe.config
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\SetupEnvironment.pdb
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.dll
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\bin\Debug\WebDriver.Support.xml
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.csprojResolveAssemblyReference.cache
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.exe
+C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\SetupEnvironment\SetupEnvironment\obj\Debug\SetupEnvironment.pdb
