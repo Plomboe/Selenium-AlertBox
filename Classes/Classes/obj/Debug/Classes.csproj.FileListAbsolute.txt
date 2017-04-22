@@ -1,9 +1,0 @@
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\bin\Debug\Classes.exe.config
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.Form1.resources
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.Properties.Resources.resources
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.csproj.GenerateResource.Cache
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\bin\Debug\Classes.exe
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\bin\Debug\Classes.pdb
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.exe
-C:\Users\Tareq\Desktop\NPower\Selenium WebDriver\Classes\Classes\obj\Debug\Classes.pdb
